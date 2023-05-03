@@ -43,8 +43,14 @@ Select mode:
    2. Rename all files
    > 'file.txt', 'secondfile.exe' => 'input1.txt','input2.exe'
 
-   3. Delete all files from directory
+   3. Change specified text in filename
+   > 'file.txt', 'secondfile.exe' => 'fchange.txt','secondfchange.exe'
+
+   4. Delete all files from directory
    > 'file.txt', 'secondfile.exe' => '', ''
+
+   5. Fileflood
+   > '', '' => 'file1.flood.txt', 'file2.flood.txt'
 Mode:
 ```
 ### Mode 1
@@ -78,5 +84,28 @@ Select new file name: file
 
 Path: C:\Users\user\Downloads\files
 Select mode: 3
+From: IMG  
+To: Video
+```
+### Mode 4
+```
+=================================================
+|                  FileManager                  |
+|                    ancymon                    |
+=================================================
+
+Path: C:\Users\user\Downloads\files
+Select mode: 3
 Are you sure? This proccess will delete all of the files in 'C:\Users\user\Downloads\files' [y/n] y
+```
+### Mode 5
+```
+=================================================
+|                  FileManager                  |
+|                    ancymon                    |
+=================================================
+
+Path: C:\Users\user\Downloads\files
+Select mode: 5
+Number of files: 107
 ```
