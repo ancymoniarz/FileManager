@@ -1,5 +1,9 @@
 # FileManager
 Really simple file manager designed for quick file renaming and deleting
+## Installation
+1. Download [main.py](https://github.com/ancymoniarz/FileManager/archive/refs/heads/master.zip)  
+2. Download [Python](https://www.python.org/downloads/)
+3. Open `main.py`
 ## How to use
 ### Find the directory that you want to commit changes to (ex. `C:\Users\user\Downloads\files`)
 ```
