@@ -1,5 +1,6 @@
 # FileManager
-Really simple file manager designed for quick file renaming and deleting
+Really simple file manager designed for quick file renaming and deleting  
+Rename, create and delete files in no time!
 ## Installation
 1. Download [main.py](https://github.com/ancymoniarz/FileManager/archive/refs/heads/master.zip)  
 2. Download [Python](https://www.python.org/downloads/)
